@@ -6,6 +6,8 @@
 //  Copyright (c) 2013 Manfred Scheiner (@scheinem). All rights reserved.
 //
 
+@import UIKit;
+
 @protocol MSCMoreOptionTableViewCellDelegate<NSObject>
 
 @optional
